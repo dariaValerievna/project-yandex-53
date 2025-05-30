@@ -1,8 +1,0 @@
-.idea
-deploy/.terraform
-deploy/.terraform.lock.hcl
-*.tfstate*
-node_modules
-dist
-tsconfig.tsbuildinfo
-*.zip
